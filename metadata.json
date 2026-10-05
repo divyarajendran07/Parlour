@@ -1,0 +1,6 @@
+{
+  "name": "ÉLAN Atelier — Luxury Beauty Parlour & Aesthetics",
+  "description": "High-end beauty parlour offering bespoke hair couture, clinical skincare rituals, bridal suites, and master aesthetic transformations with instant online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
